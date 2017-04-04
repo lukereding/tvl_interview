@@ -54,11 +54,21 @@ overview (2 slides), recommendations (2), financial analysis (3), market analysi
 	- __solution__: commission a study to evaluate first responder performance? This would be costly though, and unclear what to compare it to
 - breaking into the market
 	- there are already similar products out there
-	- __solution__: stress the stocashtic nature of the simulation 
+	- __solution__: stress the stochastic nature of the simulation 
 - a need?
 	- need to convince first responders, etc. that this is something they need
+	- they seem to be offering a product that's more customizable for the individual client's need
 	- __solution__: stats on disasters predicted to increase? By 2040, 2 more major earthquakes per year in the US, average magnitude predicted to increase 0.1 points on Richter scale. data from [USGS](https://earthquake.usgs.gov/earthquakes/search/)
 	- also see here: http://listverse.com/2015/05/25/10-major-natural-disasters-predicted-in-the-near-future/ 
+
+## from meeting
+- need validation, esp. for willingness to pay
+- market saturation
+- competitors have deep pockets
+- survey, interview data about a need
+- how to show that instructors provide some value that a web-based training would not
+
+
 
 
 tsunami data here: https://www.oasishub.co.uk/dataset/tsunami-historical-database
@@ -94,4 +104,23 @@ https://www.dps.texas.gov/dem/CouncilsCommittees/EMPG/empgCurrentGuide.pdf
 
 
 # notes on competitors
-- 
+## ADMS
+http://www.trainingfordisastermanagement.com/about/training-with-adms/
+
+Training with ADMS is very similar to live-training, the difference being that the scene is built in a virtual reality environment, and trainees deploy virtual resources. This difference allows ADMS to go beyond the capabilities of live training. In an ADMS environment, all types of incidents can be created, and resources can be made available to match all the resources you would have access to in the real world.
+
+Useful article? http://www.govtech.com/em/training/Simulation-Training-Cost-Effectiveness-Flexibility.html
+
+Is ADMS Simulation available for online use?
+No. ADMS was designed to foster a true to life environment for Commanders, Responders and Drivers, which includes working alongside of and interacting with team members. The most effective way to do this is by standing with your team as you would in a real life emergency. Online simulations lack the personal aspect of the exercise that makes ADMS so successful. Additionally, the quality of the graphics and simulation, and ultimately the value of the exercise, would be compromised due to data capacity limits associated with online environments.
+Can Governmental grant money be used to purchase ADMS?
+Yes. Many of our customers have purchased ADMS with the assistance of U.S. Federal, State or Local grants. We continually research funding sources which may be appropriate for our customers and post them on our website.
+
+The ADMS-Command system will be located at the Fort McCoy Fire Department where it will be used to train approximately six hundred (600) military firefighters and two hundred (200) civilian firefighters annually. Trainees will include firefighters from the Department of Defense, U.S. Army, Army National Guard, Air National Guard, and surrounding civilian fire departments.
+:: from https://www.etcusa.com/etc-simulation-contracted-to-deliver-adms-training-system-to-united-states-army-installation-fort-mccoy/
+
+
+## RMS
+
+Seems mostly geared towards agriculture safety
+
