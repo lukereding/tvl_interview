@@ -101,6 +101,7 @@ lots of grants from federal government to states / local govt’s for disaster p
 
 https://www.fema.gov/preparedness-non-disaster-grants
 https://www.dps.texas.gov/dem/CouncilsCommittees/EMPG/empgCurrentGuide.pdf
+https://www.fema.gov/welcome-assistance-firefighters-grant-program
 
 
 # notes on competitors
@@ -123,4 +124,14 @@ The ADMS-Command system will be located at the Fort McCoy Fire Department where 
 ## RMS
 
 Seems mostly geared towards agriculture safety
+
+
+
+—————
+
+survey, potentially useful
+https://www.fema.gov/media-library-data/1409000888026-1e8abc820153a6c8cde24ce42c16e857/20140825_Preparedness_in_America_August_2014_Update_508.pdf'
+
+
+Look here :: http://www.sciencedirect.com/science/article/pii/S1352231013004573
 
